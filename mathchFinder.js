@@ -13,5 +13,5 @@ function matchFinder(string1, string2) {
     }
 }
 
-let x = matchFinder(true, "76");
+let x = matchFinder("Pro","P");
 console.log(x);

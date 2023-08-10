@@ -25,6 +25,6 @@ function sortMaker(arr) {
 
 }
 
-let arr = [-4,-2];
+let arr = [-4,-4];
 let result = sortMaker(arr);
 console.log(result);
